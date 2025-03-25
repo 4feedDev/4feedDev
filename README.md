@@ -1,2 +1,1 @@
-I like unix/unix-like operating systems and legacy systems
-and I love *BSD and Valve Source engine
+I like unix/unix-like operating systems and legacy systems, I love *BSD and Valve Source engine
